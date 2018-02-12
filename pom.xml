@@ -43,6 +43,17 @@
             <version>2.15.0</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>test-automation</groupId>
+            <artifactId>java-test-automation</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>RELEASE</version>
+        </dependency>
 
 
     </dependencies>
